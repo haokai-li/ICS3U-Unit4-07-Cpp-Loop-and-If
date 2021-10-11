@@ -4,7 +4,6 @@
 // Created on: Oct 2021
 // This Program is about loop and if
 #include <iostream>
-#include <string>
 
 int main() {
     // This Program is about loop and if
